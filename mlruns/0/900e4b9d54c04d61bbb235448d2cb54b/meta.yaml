@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Documents/Wine_Quality_End_To_End/mlruns/0/900e4b9d54c04d61bbb235448d2cb54b/artifacts
+end_time: 1701454334718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: 900e4b9d54c04d61bbb235448d2cb54b
+run_name: rambunctious-elk-423
+run_uuid: 900e4b9d54c04d61bbb235448d2cb54b
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701454325003
+status: 3
+tags: []
+user_id: Hp

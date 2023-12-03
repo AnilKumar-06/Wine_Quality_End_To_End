@@ -1,0 +1,15 @@
+artifact_uri: file:///C:/Users/Hp/Documents/Wine_Quality_End_To_End/mlruns/0/f72b279b3bf24bf9b238d5a9d8a6dee3/artifacts
+end_time: 1701454334718
+entry_point_name: ''
+experiment_id: '0'
+lifecycle_stage: active
+run_id: f72b279b3bf24bf9b238d5a9d8a6dee3
+run_name: big-duck-795
+run_uuid: f72b279b3bf24bf9b238d5a9d8a6dee3
+source_name: ''
+source_type: 4
+source_version: ''
+start_time: 1701454324856
+status: 3
+tags: []
+user_id: Hp
